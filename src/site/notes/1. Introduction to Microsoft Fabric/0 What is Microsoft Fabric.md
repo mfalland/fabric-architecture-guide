@@ -20,7 +20,7 @@ Fabric is built on a **Software-as-a-Service (SaaS)** foundation, offering seaml
 
 > 🔗 **Source**: [Microsoft Fabric overview](https://learn.microsoft.com/en-us/fabric/fundamentals/microsoft-fabric-overview)
 
- [Fabric Overview](https://learn.microsoft.com/en-us/fabric/fundamentals/media/microsoft-fabric-overview/fabric-architecture.png)
+![Fabric Overview](https://learn.microsoft.com/en-us/fabric/fundamentals/media/microsoft-fabric-overview/fabric-architecture.png)
 
 ---
 
