@@ -18,13 +18,13 @@ Microsoft Fabric brings together core services such as:
 
 Fabric is built on a **Software-as-a-Service (SaaS)** foundation, offering seamless user experiences, unified governance, and integration with **Microsoft 365**, **Azure**, and **Power Platform**.
 
-> 🔗 **Source**: [Microsoft Fabric overview](https://learn.microsoft.com/en-us/fabric/fundamentals/microsoft-fabric-overview)
+> 🔗 **Further information**: [Microsoft Fabric overview](https://learn.microsoft.com/en-us/fabric/fundamentals/microsoft-fabric-overview)
 
 ![Fabric Overview](https://learn.microsoft.com/en-us/fabric/fundamentals/media/microsoft-fabric-overview/fabric-architecture.png)
 
 ---
 
-**1.1.2 Key Platform Capabilities**
+#### 1.1.2 Key Platform Capabilities
 
 • **OneLake** – Unified data lake for all workloads, built on ADLS Gen2
 
@@ -42,7 +42,7 @@ Fabric is built on a **Software-as-a-Service (SaaS)** foundation, offering seaml
 
 ---
 
-**1.1.3 Core Workloads**
+#### 1.1.3 Core Workloads
 
   
 
@@ -61,7 +61,7 @@ Microsoft Fabric consists of multiple purpose-built experiences called “worklo
 
 ---
 
-**1.1.4 What Makes Fabric Unique?**
+#### 1.1.4 What Makes Fabric Unique?
 
 • **Unified architecture**: Everything runs on top of **OneLake**, eliminating data silos.
 
