@@ -33,3 +33,6 @@ Contribution guidelines and a roadmap will follow soon.
 Stay tuned, and feel free to watch the repository to get notified when the first content is published.
 
 Let’s build the future of Fabric architecture – together.
+
+### TOC
+[[1. Introduction to Microsoft Fabric/0 What is Microsoft Fabric\|0 What is Microsoft Fabric]]
